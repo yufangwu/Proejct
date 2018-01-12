@@ -1,0 +1,13 @@
+1. Create a folder (repo) in GitHub account
+2. Use ‘cd’ in terminal moving to the desired folder
+3. Use ‘git clone’ + the https://github.com/yufangwu/Proejct.git <- clone or download link and clone the GitHub repo to your desired project folder at local machine
+4. Start to create your project
+
+
+
+// After you finish your update
+1. Use ‘git status’ to check what files are modified
+2. Use ‘git add’ + the name (or the directory path) of that modified file to add the file into track
+3. Use ‘git commit -m ‘XXXXXXXXX’’ to enter your record message such as “update readme file” or “finish database connection function”
+4. Use ‘git push’ and then follow the prompt instruction from terminal to enter your account name and account password
+5. You can find your change appear in GitHub!
